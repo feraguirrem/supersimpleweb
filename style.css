@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family :Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+   width: 100%;
+   min-height: 100vh;
+   padding: 10px;
+   background-image: url(images/images/shutterstock_647628562-min-1-1920x1282.jpg);
+   background-size: cover;
+}
+.To-do-list{
+    width: 100%;
+    max-width: 540px;
+    background: #fff;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
